@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/CosmicCoderX/count.svg?"  />
+<img align="right" src="https://profile-counter.glitch.me/CosmicCoderX/count.svg"  />
 
 ###
 
