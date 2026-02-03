@@ -1,0 +1,19 @@
+name: Auto Update README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Commit changes
+        run: |
+          git config --global user.name "CosmicBot"
+          git config --global user.email "bot@github.com"
+          git add .
+          git commit -m "auto: update README" || echo "No changes"
+          git push
