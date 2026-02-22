@@ -1,104 +1,84 @@
-<!-- 🌌 CosmicCoderX GitHub Profile README -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=220&section=header&text=CosmicCoderX&fontSize=60&fontColor=ffffff&animation=fadeIn" />
-
-### 🚀 Developer · Problem Solver · Tech Explorer
-
-<img src="https://komarev.com/ghpvc/?username=CosmicCoderX&label=Profile%20Views&color=7F00FF&style=flat" />
-<img src="https://img.shields.io/github/followers/CosmicCoderX?label=Followers&style=flat&color=00C6FF" />
-
-</div>
-
----
-
-## 🧠 About Me
-
-<img align="right" height="160" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRmcHgxaXBhanJ3YmwweHJzNGRhdGFkNWV6cm42eXVmZ3ZlbG42byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" />
-
-- 💡 Curious mind, passionate about building things  
-- ⚙️ Turning ideas into clean & scalable code  
-- 🧩 Strong in DSA and logical problem-solving  
-- 🔥 Consistent learner, focused on fundamentals  
-
-<br clear="both"/>
-
----
-
-## 🧰 My Toolkit
+<h1 align="center">Hi 👋, I'm Surya</h1>
+<h3 align="center">Software Development Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="38"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="38"/>
+  <img src="https://komarev.com/ghpvc/?username=CosmicCoderX&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/CosmicCoderX?tab=followers"><img src="https://img.shields.io/github/followers/CosmicCoderX?label=Followers&style=flat&color=2ea44f" alt="Followers" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 👨‍💻 About Me
 
-<img align="right" height="230" src="https://i.pinimg.com/736x/49/80/1b/49801b4e50af5338c113bc79c6c30ceb.jpg" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=CosmicCoderX&show_icons=true&theme=gotham&hide_border=true" height="150"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CosmicCoderX&layout=compact&langs_count=6&theme=gotham&hide_border=true" height="150"/>
-
-<br clear="both"/>
+- 🚀 I’m currently focused on building scalable backend architectures and dynamic user interfaces.
+- 💡 Passionate about **Data Structures, Algorithms**, and writing clean, maintainable code.
+- 🌱 Constantly learning and exploring new technologies and system design principles.
+- 💬 Ask me about **JavaScript, React, Node.js, and scaling applications**.
+- ⚡ Fun fact: "Write code for humans first, machines second."
 
 ---
 
-## 🌌 Dev Philosophy
+### 🛠️ Tech Stack & Tools
 
-> **“Write code for humans first, machines second.”**
+<p>
+  <b>Languages:</b><br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
+</p>
+
+<p>
+  <b>Frontend:</b><br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+<p>
+  <b>Backend & Database:</b><br/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+<p>
+  <b>Developer Tools:</b><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CosmicCoderX&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=777777" alt="GitHub Stats" width="45%" height="auto" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicCoderX&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777777&langs_count=6" alt="Top Languages" width="40%" height="auto" />
+</p>
+
+---
+
+### 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/CosmicCoderX">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-<img src="https://raw.githubusercontent.com/CosmicCoderX/CosmicCoderX/output/snake.svg" alt="Snake animation" />
-
----
-
-<div align="center">
-
-✨ Built with passion, patience & persistence ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=120&section=footer" />
-
-</div>
