@@ -10,13 +10,17 @@
 
 ### 👨‍💻 About Me
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="220" align="right" style="border-radius: 10px;" />
+
 - 🚀 I’m currently focused on building scalable backend architectures and dynamic user interfaces.
 - 💡 Passionate about **Data Structures, Algorithms**, and writing clean, maintainable code.
 - 🌱 Constantly learning and exploring new technologies and system design principles.
 - 💬 Ask me about **JavaScript, React, Node.js, and scaling applications**.
 - ⚡ Fun fact: "Write code for humans first, machines second."
 
----
+<br clear="both"/>
+
+--- 
 
 ### 🛠️ Tech Stack & Tools
 
@@ -63,8 +67,8 @@
 ### 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CosmicCoderX&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=777777" alt="GitHub Stats" width="45%" height="auto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicCoderX&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&text_color=777777&langs_count=6" alt="Top Languages" width="40%" height="auto" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=CosmicCoderX&show_icons=true&theme=tokyonight&hide_border=true&title_color=2F80ED&icon_color=2F80ED&text_color=777777" alt="GitHub Stats" width="48%" height="auto" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CosmicCoderX&layout=compact&theme=tokyonight&hide_border=true&title_color=2F80ED&text_color=777777&langs_count=6" alt="Top Languages" width="48%" height="auto" />
 </p>
 
 ---
