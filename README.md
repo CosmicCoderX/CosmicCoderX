@@ -12,11 +12,11 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="220" align="right" style="border-radius: 10px;" />
 
-- 🚀 I’m currently focused on building scalable backend architectures and dynamic user interfaces.
-- 💡 Passionate about **Data Structures, Algorithms**, and writing clean, maintainable code.
-- 🌱 Constantly learning and exploring new technologies and system design principles.
-- 💬 Ask me about **JavaScript, React, Node.js, and scaling applications**.
-- ⚡ Fun fact: "Write code for humans first, machines second."
+- 🚀 Crafting powerful backends & smooth interfaces
+- 🧩 Turning complex problems into simple solutions
+- 🌱 Always experimenting, optimizing, evolving
+- 💬 Into JavaScript, React, Node & performance tuning
+- ⚡ Fun fact: "If it’s not readable, it’s not done."
 
 <br clear="both"/>
 
